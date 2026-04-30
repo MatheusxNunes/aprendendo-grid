@@ -3,9 +3,6 @@
     padding: 0;
 }
 
-div{
-    border: 1px solid black;
-}
 
 .container{
     display: grid;
@@ -56,5 +53,5 @@ div{
 .item{
     background-color: rgb(255, 230, 191);
     width: 200px;
-    height: 200px;
+    height: 200px; 
 }
